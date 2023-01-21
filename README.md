@@ -1,4 +1,4 @@
-# eray_celiker_deeplearning_project
+# Deep Learning Project
 Deeplearning Image Classification 
 
 ## Requirements
